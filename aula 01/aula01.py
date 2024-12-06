@@ -1,0 +1,6 @@
+print('Oi disgraça')
+print('supernova')
+print('gravadora')
+print('inteligente')
+print('liberdade pros mano que ta privado pjl')
+print('baseadao de gelo')
